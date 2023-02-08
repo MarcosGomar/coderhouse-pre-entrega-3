@@ -1,0 +1,11 @@
+{
+  "name": "desarrollo-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-sass":"node-sass --include-path scss ./scss/Style.scss ./css/Style.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}

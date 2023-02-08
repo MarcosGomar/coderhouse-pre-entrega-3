@@ -1,0 +1,20 @@
+.en-venta{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.productos{
+    justify-content: center;
+    justify-items: center;
+    grid-template-columns: auto;
+}
+header{
+    padding: 15px;
+    background-color: lightskyblue
+}
+footer{
+    background-color: lightskyblue;
+    text-align: left;
+    padding: 2%;
+}
